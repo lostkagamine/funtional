@@ -1,0 +1,8 @@
+(main push 1
+ceq 0
+ccal zero
+call one)
+(zero out
+end)
+(one out
+call one)

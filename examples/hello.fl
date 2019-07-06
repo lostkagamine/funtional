@@ -1,0 +1,9 @@
+(main str Hello, world!
+push 0
+call loop)
+(stop end)
+(loop och
+pop
+ceq 0
+ccal stop
+jmp 0)
